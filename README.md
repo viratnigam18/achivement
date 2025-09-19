@@ -4,4 +4,4 @@ here will be all updates
 
 
 #name a idea
-# added a colaborator
+# added a colaborator for the repo
